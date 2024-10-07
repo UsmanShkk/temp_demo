@@ -1,3 +1,3 @@
 # temp_demo
 first repositry
-Author: sheikhusman
+Author: sheikhusmann
